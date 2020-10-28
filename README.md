@@ -16,9 +16,12 @@ After you can download the precompiled .8xv file and put it on your TI83 with [T
 Also you can get the source code from the source branch [here](https://github.com/Guillaume-favier/ti83python-menulib/tree/source) to get a look into the code.
 
 ## How to use it :
-You just have to import the MENU script like that : `from MENU import menu` and you can call like this :
+You just have to import the MENU script like that : `python
+from MENU import menu` and you can call like this :
 
-    menu( [list], <curs>, <title> )
+```python
+menu( [list], <curs>, <title> )
+```
 Were :
 * `list` is the list of all options can be displayed
 * `curs` the place where the cursor is displayed at start (is 0 at default)
