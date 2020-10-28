@@ -1,4 +1,4 @@
-# ti83python-menulib
+# menulib
 A free library for python on ti83 premium CE python to create simple menu, you can all personalize (the options, the title, the start cursor position) and that return the place that the user has choose as a `int`.
 
 ![menulib in work](https://i.postimg.cc/CzhNjyrD/Webp-net-gifmaker.gif)
@@ -15,8 +15,12 @@ Also you can get the source code from the source branch [here](https://github.co
 ## How to use it :
 You just have to import the MENU script like that : `from MENU import menu` and you can call like this :
 
-    menu( &#91;list&#93;, &lt;curs&gt;, &lt;title&gt;)
+    menu( [list], <curs>, <title> )
 Were :
 * `list` is the list of all options can be displayed
 * `curs` the place where the cursor is displayed at start (is 0 at default)
 * `title` is a text thatwill be displayed on the top if the menu if you want to disable it put it on `False` (is False at default)
+
+## To do :
+- [ ] do not limit user at 10 options with scroll.
+- [ ] let the options take more then one line.
