@@ -5,7 +5,7 @@ A free library for python on ti83 premium CE python to create simple menu, you c
 
 (sorry if my calculator is in french)
 
-You can control it with the buttons up, down, numbers, enter, (annul, suppr, trace, graphe return 0 because it's the best place for a quit button)
+You can control it with the buttons up, down, numbers, enter, (annul, suppr, trace, graphe return 0 because it's the best place for a quit button), negative numbers by pressing 2nd and the number.
 
 ## How to install :
 
@@ -29,6 +29,9 @@ Were :
 * `list` is the list of all options can be displayed
 * `curs` the place where the cursor is displayed at start (is 0 at default)
 * `title` is a text thatwill be displayed on the top if the menu if you want to disable it put it on `False` (is False at default)
+## Warning :
+
+If you want to replace the cursor where he was previously you can but you have to manage minus numbers. Like said at the top of the page you can make minus number by pressing 2nd and a number.
 
 ## To do :
 - [ ] do not limit user at 10 options with scroll.
