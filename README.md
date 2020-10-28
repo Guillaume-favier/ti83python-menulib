@@ -8,7 +8,10 @@ A free library for python on ti83 premium CE python to create simple menu, you c
 You can control it with the buttons up, down, numbers, enter, (annul, suppr, trace, graphe return 0 because it's the best place for a quit button)
 
 ## How to install :
-you can download the .8xv file and put it on your TI83 with [TI Connect](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw) or [TILP](https://www.ticalc.org/archives/files/fileinfo/374/37481.html).
+
+First of all you need The python app on ti83 version 3.4.0 with the ti_system in it.
+
+You can download the .8xv file and put it on your TI83 with [TI Connect](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw) or [TILP](https://www.ticalc.org/archives/files/fileinfo/374/37481.html).
 
 Also you can get the source code from the source branch [here](https://github.com/Guillaume-favier/ti83python-menulib/tree/source) to get a look into the code.
 
