@@ -31,7 +31,7 @@ Were :
 * `title` is a text thatwill be displayed on the top if the menu if you want to disable it put it on `False` (is False at default)
 ## Warning :
 
-If you want to replace the cursor where he was previously you can but you have to manage minus numbers. Like said at the top of the page you can make minus number by pressing 2nd and a number.
+If you want to replace the cursor where he was previously you can but you have to manage minus numbers. Like said at the [top of the page](#menulib) you can make minus number by pressing 2nd and a number.
 
 ## To do :
 - [ ] do not limit user at 10 options with scroll.
