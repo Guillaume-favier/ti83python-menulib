@@ -9,9 +9,9 @@ You can control it with the buttons up, down, numbers, enter, (annul, suppr, tra
 
 ## How to install :
 
-First of all you need The python app on ti83 version 3.4.0 with the ti_system in it.
+First of all you need the python app on ti83 version 3.4.0 with the ti_system in it.
 
-You can download the .8xv file and put it on your TI83 with [TI Connect](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw) or [TILP](https://www.ticalc.org/archives/files/fileinfo/374/37481.html).
+After you can download the precompiled .8xv file and put it on your TI83 with [TI Connect](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw) or [TILP](https://www.ticalc.org/archives/files/fileinfo/374/37481.html).
 
 Also you can get the source code from the source branch [here](https://github.com/Guillaume-favier/ti83python-menulib/tree/source) to get a look into the code.
 
